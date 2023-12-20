@@ -26,7 +26,7 @@ of cities.
 ## Installation
 
 ```bash
-git clone https://github.com/koenweverink/stochastic_simulation_assignment_2.git
-cd stochastic_simulation_assignment_1
+git clone https://github.com/koenweverink/stochastic_simulation_assignment_3.git
+cd stochastic_simulation_assignment_3
 pip install -r requirements.txt
 ```
