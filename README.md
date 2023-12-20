@@ -37,4 +37,9 @@ pip install -r requirements.txt
 - Follow the instructions in the Last Notebook file, namely, select the optimized hyperparameters as stated
   at the top (this varies for each problem instance). Select the wanted problem instance file as a "filename"
   variable (this also applies to loading the optimum solution file).
-- Press run all 
+- Press run all
+
+## Warning
+Note that Simulated Annealing is a slow process with many iterations. Therefore, the code takes a while to
+run, especially for larger problem instances. If this is a problem, please reduce the num_runs variable for
+faster outcomes.
