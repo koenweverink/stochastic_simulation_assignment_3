@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 - Open Last Notebook.ipynb
 - Select a Python interpreter
-- Follow the instructions in the file, namely, select the optimized hyperparameters as stated at the top
-  (this varies for each problem instance). Select the wanted problem instance file as a "filename" variable
-  (this also applies to loading the optimum solution file).
+- Follow the instructions in the Last Notebook file, namely, select the optimized hyperparameters as stated
+  at the top (this varies for each problem instance). Select the wanted problem instance file as a "filename"
+  variable (this also applies to loading the optimum solution file).
 - Press run all 
